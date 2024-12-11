@@ -1,17 +1,6 @@
-[
-  {
-    "groupName": "Simple",
-    "folderName": "01_simple",
-    "children": [
-      {
-        "id": "wPtyoG4hz8l+ae1agnlzfpcU73A=",
-        "mf": "C3H5BrO2",
-        "idCodeHash": "cf64a319991a07a31375a90df522b35c",
-        "file": "./10_Easy//01/index.json",
-        "title": "Exercise 1",
-        "selected": true,
-        "idCode": "gOpH@DILkW@@@@"
-      }
-    ]
-  }
-]
+{
+      "file": "./10_Easy/01/index.json",
+      "title": "Exercise 1",
+      "view": "",
+      "selected": true
+}
