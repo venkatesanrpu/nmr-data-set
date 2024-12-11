@@ -6,13 +6,9 @@
       "groupName": "Exercise 1",
       "children": [
         {
-          "jcampURL": "./10_Easy/01/1h.jdx",
+          "file": "./10_Easy/01/index.json",
           "title": "1H",
           "selected": true
-        },
-        {
-          "jcampURL": "./10_Easy/01/13c.jdx",
-          "title": "13C"
         }
       ]
     }
