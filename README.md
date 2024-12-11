@@ -6,8 +6,8 @@ This text may be replaced by the description of the exercise.
 
 ## Link to all the exercises
 
-[https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset-template/toc.json](https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset-template/toc.json)
+[https://www.nmrium.org/teaching#?toc=https://venkatesanrpu.github.io/nmr-data-set/toc.json](https://www.nmrium.org/teaching#?toc=https://venkatesanrpu.github.io/nmr-data-set/toc.json)
 
 Links to series
 
-* [First Series](https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset-template/toc_10_First.json)
+* [First Series](https://www.nmrium.org/teaching#?toc=https://venktesanrpu.github.io/nmr-data-set/toc_10_First.json)
