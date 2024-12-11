@@ -1,15 +1,8 @@
 [
   {
-    "groupName": "Easy Series",
-    "folderName": "10_Easy",
-    "children": [
-      {
-        "id": "7ZJSeb5KNLWwpHaohYmcbwp50a4=",
-        "mf": "C3H5BrO2",
-        "idCodeHash": "86200d52beb93183ee69cb115025e233",
-        "file": "./10_Easy/01/index.json",
-        "title": "Exercise 1"
-      }
-    ]
+    "file": "./10_Easy/01/index.json",
+    "title": "Exercise 1",
+    "view": "",
+    "selected": true
   }
 ]
