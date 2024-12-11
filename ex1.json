@@ -1,8 +1,13 @@
 [
   {
-    "file": "./10_Easy/01/index.json",
-    "title": "Exercise 1",
-    "view": "",
-    "selected": true
-  }
+    "groupName": "Simple",
+    "folderName": "01_simple",
+    "children": [
+      {
+        "mf": "C3H5BrO2",
+        "file": "./10_Easy/01/index.json",
+        "title": "Exercise 1",
+        "selected": true
+      }
+   }
 ]
