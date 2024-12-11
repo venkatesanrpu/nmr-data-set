@@ -7,6 +7,14 @@
       "display": {
         "name": ""
       }
+    },
+    {
+      "source": {
+        "jcampURL": "./13c.dx"
+      },
+      "display": {
+        "name": ""
+      }
     }
   ]
 }
