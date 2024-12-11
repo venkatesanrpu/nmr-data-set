@@ -6,10 +6,15 @@
       "groupName": "Exercise 1",
       "children": [
         {
-          "file": "./10_Easy/01/index.json",
+          "file": "./10_Easy/01/1h.jdx",
           "title": "1H",
           "selected": true
-        }
+        },
+        {
+            "file": "./10_Easy/01/13c.jdx",
+            "title": "13C",
+            "selected": true
+          }
       ]
     }
   ]
