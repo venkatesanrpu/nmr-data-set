@@ -2,10 +2,18 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./1h.dx"
+        "jcampURL": "./1h.jdx"
       },
       "display": {
-        "name": ""
+        "name": "1H"
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./13c.jdx"
+      },
+      "display": {
+        "name": "13C"
       }
     }
   ]
