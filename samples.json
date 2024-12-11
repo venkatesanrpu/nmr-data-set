@@ -1,15 +1,8 @@
 [
     {
-      "title": "Easy"
-    },
-    {
-      "groupName": "Exercise 1",
-      "children": [
-        {
-          "file": "./10_Easy/01/1h.nmrium",
-          "title": "1H",
-          "selected": true
-        }
-      ]
+      "file": "./10_Easy/01/index.json",
+      "title": "Exercise 1",
+      "view": "",
+      "selected": true
     }
   ]
