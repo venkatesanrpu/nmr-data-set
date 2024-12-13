@@ -7,7 +7,7 @@
 ##isComplex=false
 ##dimension=1
 ##pulseSequence=prediction
-##solvent=
+##solvent=CDCl3
 ##experiment=carbon
 ##isFt=true
 ##name=CARBON_500MHz
@@ -15,7 +15,7 @@
 ##NPOINTS=131072
 ##.OBSERVE NUCLEUS=13C
 ##.OBSERVE FREQUENCY=125.75188743006639
-##.SOLVENT=
+##.SOLVENT=CDCl3
 ##$BF1=125.75188743006639
 ##$OFFSET=-5
 ##XUNITS=HZ
