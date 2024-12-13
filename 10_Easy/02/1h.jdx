@@ -7,7 +7,7 @@
 ##isComplex=false
 ##dimension=1
 ##pulseSequence=prediction
-##solvent=
+##solvent=CDCl3
 ##experiment=proton
 ##isFt=true
 ##name=PROTON_500MHz
@@ -15,7 +15,7 @@
 ##NPOINTS=131072
 ##.OBSERVE NUCLEUS=1H
 ##.OBSERVE FREQUENCY=500
-##.SOLVENT=
+##.SOLVENT=CDCl3
 ##$BF1=500
 ##$OFFSET=-1
 ##XUNITS=HZ
