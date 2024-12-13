@@ -2,7 +2,7 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./1h.jdx"
+        "jcampURL": "./PROTON_500MHz.jdx"
       },
       "display": {
         "name": "1H"
@@ -10,7 +10,7 @@
     },
     {
       "source": {
-        "jcampURL": "./13c.jdx"
+        "jcampURL": "./CARBON_500MHz.jdx"
       },
       "display": {
         "name": "13C"
